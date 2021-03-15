@@ -4,8 +4,7 @@
   "description": "Nodejs CMS Application",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Indranil Mukherjee",
   "license": "ISC",
