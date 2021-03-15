@@ -1,12 +1,12 @@
 {
   "name": "cms-tutorial",
   "version": "1.0.1",
-  "description": "Nodejs CMS Application",
+  "description": "25Blog",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Indranil Mukherjee",
+  "author": "seni Oladokun",
   "license": "ISC",
   "dependencies": {
     "@handlebars/allow-prototype-access": "^1.0.3",
